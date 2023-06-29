@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Staff Rostering Problem Definition for Citation"
+authors:
+  - family-names: Fyvie
+    given-names: Martin
+    orcid: https://orcid.org/0000-0001-8491-7008
+title: "Explaining A Staff Rostering Problem By Mining Trajectory Variance Structures Definition - SGAI 2023"
+version: 0.1.0
+doi: Pending
+date-released: 29-06-2023
